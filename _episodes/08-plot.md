@@ -28,14 +28,7 @@ them to make a figure that tells a compelling scientific story.
 
 > ## Outline
 > 
-> 1. Starting with the figure from the previous episode, we will add
-> annotations to present the results more clearly.
-> 
-> 2. Then we will learn several ways to customize figures to make them more
-> appealing and effective.
-> 
-> 3. Finally, we will learn how to make a figure with multiple panels.
-{: .checklist}
+Here is a better way to outline the introduction etc etc.
 
 > ## Starting from this episode
 >
